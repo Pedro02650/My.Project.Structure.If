@@ -1,5 +1,16 @@
 # My.Project.Structure.If
 
+This project is a Java application structured using Maven. It contains a simple example of a Java class, "DesafioUm", which is inside the "my.project" package.
+
+# Requirements
+
+- Java JDK 8 or superior
+- Apache Maven
+
+# Contribution
+
+Feel free to contribute to the project by submitting pull requests or reporting issues on the issues page.
+
 
   ### My Networks  
    
